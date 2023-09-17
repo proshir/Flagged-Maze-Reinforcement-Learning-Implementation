@@ -1,4 +1,4 @@
-# Flagged-Maze-Reinforcement-Learning-Implementation
+# Flagged-Maze-Reinforcement-Learning
 
 ![image](https://github.com/proshir/Flagged-Maze-Reinforcement-Learning-Implementation/assets/19504971/528d8f88-c4e6-439c-a5af-fc24b8a03ae5)
 
